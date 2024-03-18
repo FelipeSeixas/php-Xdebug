@@ -1,2 +1,2 @@
-# php-Xdebuger
-Actions with PHP Xdebuger, by VSCode framework
+# php-Xdebug
+Actions with PHP Xdebug, by VSCode framework
